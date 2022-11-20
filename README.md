@@ -33,5 +33,3 @@ Objetivos do repositorio: Inicialmente o repositorio tinha como objetivo ser um 
 
 ## Classe abstrata Controller 
   Essa class extendida por todos os controllers tem como objetivo `iniciar o eloquent e a session` do php em todos os controller.
-
-# treinamentoORM
